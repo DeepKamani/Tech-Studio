@@ -1,0 +1,5 @@
+1. Open arduino program
+2. manually import library by going in Sketch-->include library-->.addziplibrary
+3. Now compile and export the code to arduino.
+4. go to tools-->serial monitor. now set band to 115200.
+5. type F and press send to play.
